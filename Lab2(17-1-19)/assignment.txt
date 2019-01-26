@@ -1,0 +1,27 @@
+Write a C program to implement "tree" command, which is used to display the subdirectories and files within the current directory (where command is run). Directory structure is traversed in DFS manner and displayed as such. An example is shown below.
+
+ 
+
+Your program should accept a command line argument. If the argument is -b, the tree structure should be displayed in BFS (breadth first search) manner and if argument is -d, the structure should be displayed in DFS (depth first search) manner.
+
+ 
+
+etc
+|-- abrt
+|   |-- abrt-action-save-package-data.conf
+|   |-- abrt.conf
+|   |-- gpg_keys
+|   `-- plugins
+|       |-- CCpp.conf
+|       `-- python.conf
+|-- acpi
+|   |-- actions
+|   |   `-- power.sh
+|   `-- events
+|       |-- power.conf
+|       `-- video.conf
+|-- adjtime
+|-- aliases
+|-- aliases.db
+|-- alsa
+|   `-- alsactl.conf
