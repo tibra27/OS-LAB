@@ -1,0 +1,17 @@
+Fifth Lab Assignment
+
+For following problems, solutions need to be implemented through threads using semaphores, processes (coded as separate programs) using semaphores implemented in shared memory.
+
+A) Using semaphores, implement solution to producer-consumer problem. It is given that there 
+
+(1) is one producer and one consumer
+
+(2) multiple producers and one consumer
+
+(3) one producer and multiple consumers 
+
+(4) multiple producers and multiple consumers
+
+ 
+
+(B) Using semaphores, implement solution to readers-writers problem. You need to implement all three solutions (https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem)
